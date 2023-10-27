@@ -2,7 +2,7 @@
 
 Hi👋, this is a web app to show your current clock.
 
-[Try Here🔗]()
+[Try Here🔗](https://fanpeng-l.github.io/current-clock/)
 
 👀 Preview:
 
